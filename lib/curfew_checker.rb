@@ -33,7 +33,7 @@ if time == 11
 elsif time >11
   "You're in trouble! Better get home quick!"
 else time == 9
-  "You have 2 hour(s) left to keep having fun"
+  "You have 2 hour(s) left to keep having fun!"
 end
 end
 
