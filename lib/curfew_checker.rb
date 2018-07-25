@@ -31,9 +31,9 @@ def deluxe_curfew_checker(time)
 if time == 11
   "Time to apparate!"
 elsif time >11
-  " You're in trouble! Better get home quick!"
+  "You're in trouble! Better get home quick!"
 else
-  "Keep having fun!"
+  "You have 2 hour(s) left to keep having dun"
 end
 end
 
