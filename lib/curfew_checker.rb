@@ -32,8 +32,8 @@ if time == 11
   "Time to apparate!"
 elsif time >11
   "You're in trouble! Better get home quick!"
-else
-  "You have 2 hour(s) left to keep having dun"
+else time < 11
+  "You have (#{time} - 11) hour(s) left to keep having fun"
 end
 end
 
