@@ -28,8 +28,9 @@ end
 end
 
 def deluxe_curfew_checker(time)
-  # code goes here
-end
+if time == 11
+  "Time to apparate!"
+elsif
 
 def platinum_curfew_checker(current_time, curfew_time)
   # code goes here
